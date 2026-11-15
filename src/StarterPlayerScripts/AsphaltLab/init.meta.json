@@ -1,0 +1,11 @@
+{
+  "properties": {
+    "SerializedOverrides": {
+      "BinaryString": ""
+    },
+    "Disabled": true
+  },
+  "attributes": {
+    "AllowOutsideStudio": true
+  }
+}

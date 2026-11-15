@@ -1,0 +1,51 @@
+{
+  "properties": {
+    "WorldPivotData": {
+      "OptionalCFrame": {
+        "position": [
+          -251.97998,
+          0.90996987,
+          -49.099995
+        ],
+        "orientation": [
+          [
+            -0.9999997,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0
+          ]
+        ]
+      }
+    },
+    "ExplorerIconContent": {
+      "Content": "None"
+    },
+    "ModelMeshCFrame": [
+      -1.1132742166519165,
+      -6.59000301361084,
+      0.470001220703125,
+      0.9997895956039429,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "SerializedOverrides": {
+      "BinaryString": ""
+    }
+  },
+  "className": "Tool"
+}

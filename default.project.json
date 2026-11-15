@@ -1,0 +1,96 @@
+{
+  "name": "seal-a-driveway",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "$properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      },
+      "$attributes": {
+        "__MCPTopologyInstanceId": "instance:fqn-hez",
+        "__MCPTopologyMode": "shared",
+        "__MCPTopologyToken": "cfee28a6-8df9-4a85-b02e-5deabe7d4b2e"
+      },
+      "$path": "src/ReplicatedStorage"
+    },
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "$properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      },
+      "$path": "src/ServerScriptService"
+    },
+    "ServerStorage": {
+      "$className": "ServerStorage",
+      "$properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      },
+      "$path": "src/ServerStorage"
+    },
+    "StarterGui": {
+      "$className": "StarterGui",
+      "$properties": {
+        "ScreenOrientation": "LandscapeRight",
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      },
+      "$path": "src/StarterGui"
+    },
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+      "StarterCharacterScripts": {
+        "$className": "StarterCharacterScripts",
+        "$properties": {
+          "SerializedOverrides": {
+            "BinaryString": ""
+          }
+        },
+        "$path": "src/StarterCharacterScripts"
+      },
+      "StarterPlayerScripts": {
+        "$className": "StarterPlayerScripts",
+        "$properties": {
+          "SerializedOverrides": {
+            "BinaryString": ""
+          }
+        },
+        "$path": "src/StarterPlayerScripts"
+      },
+      "$properties": {
+        "AvatarJointUpgrade": "Enabled",
+        "CameraMaxZoomDistance": 128.0,
+        "CharacterBreakJointsOnDeath": false,
+        "CharacterUseJumpPower": false,
+        "CharacterWalkSpeed": 20.0,
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "UseImprovedCharacterEvents": {
+          "Enum": 0
+        }
+      }
+    },
+    "TestService": {
+      "$className": "TestService",
+      "$properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      },
+      "$path": "src/TestService"
+    }
+  },
+  "syncbackRules": {
+    "ignoreTrees": [
+      "ServerScriptService/Script"
+    ]
+  }
+}
